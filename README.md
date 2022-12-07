@@ -1,0 +1,2 @@
+# okk-pacman
+pacman clone.
